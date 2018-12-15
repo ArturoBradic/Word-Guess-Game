@@ -41,6 +41,10 @@ h5 {
     padding: 15px;
 }
 
+.footer span {
+    color: white;
+}
+
 @media screen and (max-width: 640px){
     img {
         max-width: 30%;
